@@ -7,8 +7,8 @@
 #get the total price of all the items
 
 total = 0
-cart_item_prices = [12.50, .99, 3.49, 7.99]
-cart_item_prices.each do |x|
+me_item_prices = [12.50, .99, 3.49, 7.99]
+me_item_prices.each do |x|
   total += x
   
 end

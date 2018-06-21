@@ -8,7 +8,7 @@
 
 #until loop
 counter = 1
-until counter == 10
+until counter == 11
   puts "I love kwk"
   counter += 1
   end
